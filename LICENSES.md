@@ -10,6 +10,8 @@
 | `adhan/klcc.*` | Call to prayer at KLCC Mosque, Kuala Lumpur, [Internet Archive](https://archive.org/details/AzanZhurMasjidKlcc) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
 | `adhan/mirza.*` | Isha adhan by Moazzambeg Mirza, Ahmedabad, [Internet Archive](https://archive.org/details/IshaAzanByMoazzambegMirza07092013) | Public Domain Mark 1.0 (uploader's mark) |
 | `adhan/nisad.*` | Live ezan by Nisad Efendija, [Internet Archive](https://archive.org/details/EzanUzivo-NisadEfendija) | Public domain (uploader's mark) |
+| `adhan/madinah.*` | "Islamic call to prayer from the prophet mosque" by ejaz215, [Freesound](https://freesound.org/people/ejaz215/) via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:33937_ejaz215_call-to-prayer-from-the-prophet-s-mo.ogg) | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) |
+| `adhan/azan.*` | "Adhan" by Andrewler, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Azan.ogg) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
 
 The licenses above are as marked by the uploaders on the Internet Archive and were not independently verified.
 If you are a rights holder and want a recording removed, open an issue and it will be taken down.

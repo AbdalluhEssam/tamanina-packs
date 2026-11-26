@@ -84,6 +84,36 @@
         "iosBytes": 332094
       },
       "credit": "Nisad Efendija, live ezan (Internet Archive), Public Domain"
+    },
+    {
+      "id": "madinah",
+      "nameAr": "المسجد النبوي – المدينة المنورة",
+      "nameEn": "Prophet's Mosque – Madinah",
+      "main": {
+        "url": "https://cdn.jsdelivr.net/gh/AbdalluhEssam/tamanina-packs@v4/adhan/madinah.mp3",
+        "sha256": "695de3a0aaee28b138f5db6b033266dad6b14c2339c0ef4b17570a6e7b1ff836",
+        "bytes": 1493202,
+        "durationMs": 186577,
+        "iosUrl": "https://cdn.jsdelivr.net/gh/AbdalluhEssam/tamanina-packs@v4/adhan/madinah.caf",
+        "iosSha256": "e25890030a1a9e49e58b5fc55e2aa173fd85702f3116a66421a4a54564b2c6f2",
+        "iosBytes": 332094
+      },
+      "credit": "Recorded by ejaz215 (Freesound / Wikimedia Commons), CC BY 3.0"
+    },
+    {
+      "id": "azan",
+      "nameAr": "أذان – تسجيل Andrewler",
+      "nameEn": "Adhan – recorded by Andrewler",
+      "main": {
+        "url": "https://cdn.jsdelivr.net/gh/AbdalluhEssam/tamanina-packs@v4/adhan/azan.mp3",
+        "sha256": "506760f090aca553401e37ab09e7a0e49333188e4a4e0e73d05d1065ca67b7fa",
+        "bytes": 1468333,
+        "durationMs": 183484,
+        "iosUrl": "https://cdn.jsdelivr.net/gh/AbdalluhEssam/tamanina-packs@v4/adhan/azan.caf",
+        "iosSha256": "8864cd4adab4b89ad9a46bf20f71eee8b80762ee81a0cc9b0593658478dd63aa",
+        "iosBytes": 332094
+      },
+      "credit": "Recorded by Andrewler (Wikimedia Commons), CC BY-SA 4.0"
     }
   ],
   "mushaf": {
