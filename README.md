@@ -9,3 +9,17 @@ immutable: publish changes under a new tag (`v2`, ...).
 - `packs.json` – the catalog entries for these files
 
 See [LICENSES.md](LICENSES.md) for attribution.
+
+## Adding a voice (no app update needed)
+
+```
+python3 tool/make_adhan_pack.py <id> recording.mp3 --out /tmp/pack \
+  --url-prefix https://cdn.jsdelivr.net/gh/AbdalluhEssam/tamanina-packs@vN/adhan/ \
+  --name-ar "…" --name-en "…" --credit "Who, license" --no-phrases \
+  --packs packs.json
+cp /tmp/pack/<id>*.mp3 /tmp/pack/<id>*.caf adhan/
+git add -A && git commit -m "Add <id>" && git tag vN && git push origin main vN
+```
+
+Installed apps read `packs.json` from `main` and show the new voice within minutes. Only add recordings
+you have the right to redistribute.
