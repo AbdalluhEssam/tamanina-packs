@@ -24,6 +24,66 @@
         "iosBytes": 332094
       },
       "credit": "Adhan recordings from Doha, Qatar (2013-2014), Internet Archive, Public Domain Mark"
+    },
+    {
+      "id": "asim",
+      "nameAr": "عاصم جاويد – المملكة المتحدة",
+      "nameEn": "Asim Javed – United Kingdom",
+      "main": {
+        "url": "https://cdn.jsdelivr.net/gh/AbdalluhEssam/tamanina-packs@v3/adhan/asim.mp3",
+        "sha256": "7a24a50618b5472dffccc423261fadae023221b92d624a21305bc63bcb2da2e0",
+        "bytes": 1758870,
+        "durationMs": 219743,
+        "iosUrl": "https://cdn.jsdelivr.net/gh/AbdalluhEssam/tamanina-packs@v3/adhan/asim.caf",
+        "iosSha256": "790cad0324b854d1b45220cded5edd0e7bec83e5c77a1f7f0552f98e2e59156d",
+        "iosBytes": 332094
+      },
+      "credit": "Called by Asim Javed, ICR (Internet Archive), CC0 1.0"
+    },
+    {
+      "id": "klcc",
+      "nameAr": "مسجد KLCC – كوالالمبور",
+      "nameEn": "KLCC Mosque – Kuala Lumpur",
+      "main": {
+        "url": "https://cdn.jsdelivr.net/gh/AbdalluhEssam/tamanina-packs@v3/adhan/klcc.mp3",
+        "sha256": "c533e4bdae5b9f646a5055d4337460d382cfe5fc626f830f0871cef437052e6f",
+        "bytes": 1494021,
+        "durationMs": 186645,
+        "iosUrl": "https://cdn.jsdelivr.net/gh/AbdalluhEssam/tamanina-packs@v3/adhan/klcc.caf",
+        "iosSha256": "6120b3acdd33506c6d45cf50c4227a0e3a36fca3c2b88fccb0b1278f543415a6",
+        "iosBytes": 332094
+      },
+      "credit": "KLCC Mosque, Kuala Lumpur (Internet Archive), CC0 1.0"
+    },
+    {
+      "id": "mirza",
+      "nameAr": "معظّم ميرزا – أحمد آباد",
+      "nameEn": "Moazzam Mirza – Ahmedabad",
+      "main": {
+        "url": "https://cdn.jsdelivr.net/gh/AbdalluhEssam/tamanina-packs@v3/adhan/mirza.mp3",
+        "sha256": "42ab8cff1e9141927a06fbf522fab459e79cd03d7afdab813e4e8deb565af584",
+        "bytes": 2179396,
+        "durationMs": 272353,
+        "iosUrl": "https://cdn.jsdelivr.net/gh/AbdalluhEssam/tamanina-packs@v3/adhan/mirza.caf",
+        "iosSha256": "74fc0081889cd5bcacc5417f79fa4681d448ce6fcd4def3e70616815700ac1ec",
+        "iosBytes": 332094
+      },
+      "credit": "Moazzam Mirza, Ahmedabad (Internet Archive), Public Domain Mark"
+    },
+    {
+      "id": "nisad",
+      "nameAr": "نصاد أفندية – البوسنة",
+      "nameEn": "Nisad Efendija – Bosnia",
+      "main": {
+        "url": "https://cdn.jsdelivr.net/gh/AbdalluhEssam/tamanina-packs@v3/adhan/nisad.mp3",
+        "sha256": "3499a56f7623fa1508e12a1a647703a210a4e214e381c97da978a73ca2af271d",
+        "bytes": 1875843,
+        "durationMs": 234423,
+        "iosUrl": "https://cdn.jsdelivr.net/gh/AbdalluhEssam/tamanina-packs@v3/adhan/nisad.caf",
+        "iosSha256": "c9c5fd4dd40951bedf172b85bc786746e6cc2c49a50c9c445818a367e915477f",
+        "iosBytes": 332094
+      },
+      "credit": "Nisad Efendija, live ezan (Internet Archive), Public Domain"
     }
   ],
   "mushaf": {
