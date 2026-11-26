@@ -1,0 +1,132 @@
+{
+  "version": 1,
+  "adhan": [
+    {
+      "id": "aaqib",
+      "nameAr": "عاقب عزيز",
+      "nameEn": "Aaqib Azeez",
+      "main": {
+        "url": "https://cdn.jsdelivr.net/gh/AbdalluhEssam/tamanina-packs@v1/adhan/aaqib.mp3",
+        "sha256": "70bed6418fd4e5532fe6ad6c18535bfb967da7a1434dd712951cc266a5890e78",
+        "bytes": 692601,
+        "durationMs": 86513,
+        "iosUrl": "https://cdn.jsdelivr.net/gh/AbdalluhEssam/tamanina-packs@v1/adhan/aaqib.caf",
+        "iosSha256": "0f7f3e90a121a0bf284865cb6223e4910e10609ce18fd0864b48322d308a45c2",
+        "iosBytes": 332094,
+        "phrases": [
+          [
+            0.6,
+            4.9
+          ],
+          [
+            6.1,
+            10.7
+          ],
+          [
+            11.5,
+            18.2
+          ],
+          [
+            19.1,
+            26.4
+          ],
+          [
+            28.8,
+            36.5
+          ],
+          [
+            37.6,
+            45.3
+          ],
+          [
+            47.9,
+            52.2
+          ],
+          [
+            53.7,
+            58.7
+          ],
+          [
+            60.2,
+            64.2
+          ],
+          [
+            65.7,
+            70.0
+          ],
+          [
+            72.0,
+            76.4
+          ],
+          [
+            77.6,
+            83.8
+          ]
+        ]
+      },
+      "credit": "Recording by Atcovi (Wikimedia Commons), CC BY-SA 4.0"
+    },
+    {
+      "id": "casablanca",
+      "nameAr": "مسجد الحسن الثاني",
+      "nameEn": "Hassan II Mosque",
+      "main": {
+        "url": "https://cdn.jsdelivr.net/gh/AbdalluhEssam/tamanina-packs@v1/adhan/casablanca.mp3",
+        "sha256": "c97cedba7566e10eb7d7518a96617bb7380c02fd12f8676d9cd94b8de414c515",
+        "bytes": 1406057,
+        "durationMs": 175680,
+        "iosUrl": "https://cdn.jsdelivr.net/gh/AbdalluhEssam/tamanina-packs@v1/adhan/casablanca.caf",
+        "iosSha256": "34113f86b3da680cc0f0756e471f10d6dd15dbf0f226d29d84580621e8bcf577",
+        "iosBytes": 332094
+      },
+      "credit": "Recording by Fraguando (Wikimedia Commons), CC BY-SA 4.0"
+    }
+  ],
+  "mushaf": {
+    "bundledPages": 5,
+    "chunks": [
+      {
+        "from": 6,
+        "to": 105,
+        "url": "https://cdn.jsdelivr.net/gh/AbdalluhEssam/tamanina-packs@v1/mushaf/mushaf-006-105.pack",
+        "sha256": "7d3841438640dd2972447c14e66a232f3511318583e7fa38ea810963c7e73b53",
+        "bytes": 5965464
+      },
+      {
+        "from": 106,
+        "to": 205,
+        "url": "https://cdn.jsdelivr.net/gh/AbdalluhEssam/tamanina-packs@v1/mushaf/mushaf-106-205.pack",
+        "sha256": "0263da1cc6c4ff94dc8b305fe788d1742893cef224f3d95e46477cf08dcc2c16",
+        "bytes": 5965288
+      },
+      {
+        "from": 206,
+        "to": 305,
+        "url": "https://cdn.jsdelivr.net/gh/AbdalluhEssam/tamanina-packs@v1/mushaf/mushaf-206-305.pack",
+        "sha256": "4b1ea6c7181641e177e08e1298778c9a678ce0088cfedf843ed7cc3501f07195",
+        "bytes": 6010278
+      },
+      {
+        "from": 306,
+        "to": 405,
+        "url": "https://cdn.jsdelivr.net/gh/AbdalluhEssam/tamanina-packs@v1/mushaf/mushaf-306-405.pack",
+        "sha256": "a6f093461d6b62c5109b1b8e7cd65cd9bd58f1b0260485ebc628f7249843ed32",
+        "bytes": 6007908
+      },
+      {
+        "from": 406,
+        "to": 505,
+        "url": "https://cdn.jsdelivr.net/gh/AbdalluhEssam/tamanina-packs@v1/mushaf/mushaf-406-505.pack",
+        "sha256": "475f0bd961ee1a3e313b622cbc82adbfb897c3ab765d3bebcd3d7a3ebc84231b",
+        "bytes": 6051440
+      },
+      {
+        "from": 506,
+        "to": 604,
+        "url": "https://cdn.jsdelivr.net/gh/AbdalluhEssam/tamanina-packs@v1/mushaf/mushaf-506-604.pack",
+        "sha256": "213d10b74b1f7528957f2979db7b75581eb55b983a7b1fd37e48d693a454281c",
+        "bytes": 6020888
+      }
+    ]
+  }
+}
