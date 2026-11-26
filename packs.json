@@ -2,84 +2,28 @@
   "version": 1,
   "adhan": [
     {
-      "id": "aaqib",
-      "nameAr": "عاقب عزيز",
-      "nameEn": "Aaqib Azeez",
+      "id": "doha",
+      "nameAr": "قطر – الدوحة",
+      "nameEn": "Doha, Qatar",
       "main": {
-        "url": "https://cdn.jsdelivr.net/gh/AbdalluhEssam/tamanina-packs@v1/adhan/aaqib.mp3",
-        "sha256": "70bed6418fd4e5532fe6ad6c18535bfb967da7a1434dd712951cc266a5890e78",
-        "bytes": 692601,
-        "durationMs": 86513,
-        "iosUrl": "https://cdn.jsdelivr.net/gh/AbdalluhEssam/tamanina-packs@v1/adhan/aaqib.caf",
-        "iosSha256": "0f7f3e90a121a0bf284865cb6223e4910e10609ce18fd0864b48322d308a45c2",
-        "iosBytes": 332094,
-        "phrases": [
-          [
-            0.6,
-            4.9
-          ],
-          [
-            6.1,
-            10.7
-          ],
-          [
-            11.5,
-            18.2
-          ],
-          [
-            19.1,
-            26.4
-          ],
-          [
-            28.8,
-            36.5
-          ],
-          [
-            37.6,
-            45.3
-          ],
-          [
-            47.9,
-            52.2
-          ],
-          [
-            53.7,
-            58.7
-          ],
-          [
-            60.2,
-            64.2
-          ],
-          [
-            65.7,
-            70.0
-          ],
-          [
-            72.0,
-            76.4
-          ],
-          [
-            77.6,
-            83.8
-          ]
-        ]
-      },
-      "credit": "Recording by Atcovi (Wikimedia Commons), CC BY-SA 4.0"
-    },
-    {
-      "id": "casablanca",
-      "nameAr": "مسجد الحسن الثاني",
-      "nameEn": "Hassan II Mosque",
-      "main": {
-        "url": "https://cdn.jsdelivr.net/gh/AbdalluhEssam/tamanina-packs@v1/adhan/casablanca.mp3",
-        "sha256": "c97cedba7566e10eb7d7518a96617bb7380c02fd12f8676d9cd94b8de414c515",
-        "bytes": 1406057,
-        "durationMs": 175680,
-        "iosUrl": "https://cdn.jsdelivr.net/gh/AbdalluhEssam/tamanina-packs@v1/adhan/casablanca.caf",
-        "iosSha256": "34113f86b3da680cc0f0756e471f10d6dd15dbf0f226d29d84580621e8bcf577",
+        "url": "https://cdn.jsdelivr.net/gh/AbdalluhEssam/tamanina-packs@v2/adhan/doha.mp3",
+        "sha256": "5de5269f6366773e6e6b54d679c47bf856683ac69686a68ad4ed4f8d8e68bb61",
+        "bytes": 1431228,
+        "durationMs": 178831,
+        "iosUrl": "https://cdn.jsdelivr.net/gh/AbdalluhEssam/tamanina-packs@v2/adhan/doha.caf",
+        "iosSha256": "1f676378bb55abd612809d1af9a7e88e41d19120a31b0cb762eeec5163d6cfdd",
         "iosBytes": 332094
       },
-      "credit": "Recording by Fraguando (Wikimedia Commons), CC BY-SA 4.0"
+      "fajr": {
+        "url": "https://cdn.jsdelivr.net/gh/AbdalluhEssam/tamanina-packs@v2/adhan/doha-fajr.mp3",
+        "sha256": "48af930796ff4d5a874312d11ab723faa8dc464f4d627df98d43a7d8369536c6",
+        "bytes": 1738009,
+        "durationMs": 217168,
+        "iosUrl": "https://cdn.jsdelivr.net/gh/AbdalluhEssam/tamanina-packs@v2/adhan/doha-fajr.caf",
+        "iosSha256": "3c3940f9d6abf9f4670d571d709a6016e236e0754cacf2e3c22d02e9724747ce",
+        "iosBytes": 332094
+      },
+      "credit": "Adhan recordings from Doha, Qatar (2013-2014), Internet Archive, Public Domain Mark"
     }
   ],
   "mushaf": {

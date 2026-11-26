@@ -1,14 +1,14 @@
 # Licenses and attribution
 
-## Adhan recordings (via Wikimedia Commons, re-encoded to mono MP3 and a short CAF clip)
+## Adhan recordings
 
-| File | Recording | License |
+| Files | Recording | License |
 | --- | --- | --- |
-| `adhan/aaqib.*` | "The Adhan - Muslim Call to Prayer - Aaqib Azeez" by Atcovi | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
-| `adhan/casablanca.*` | "Llamada a oración Mezquita Hassan II" by Fraguando | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
+| `adhan/doha.*`, `adhan/doha-fajr.*` | "Adhan Recordings from Doha, Qatar" (Dhuhr and Fajr), recorded 2013-2014, [Internet Archive](https://archive.org/details/adhan.recordings.from.doha.qatar) | [Public Domain Mark 1.0](http://creativecommons.org/publicdomain/mark/1.0/), as marked by the uploader on the Internet Archive. The mark is the uploader's assertion and was not independently verified. |
 
-The re-encoded files in this repository are adaptations and are shared under the
-same license as their source recording.
+The files here are re-encoded copies (mono MP3 with normalized loudness, plus a short CAF clip for iOS notifications).
+Earlier recordings published under tag `v1` (`adhan/aaqib.*`, `adhan/casablanca.*`, CC BY-SA 4.0 from Wikimedia Commons)
+are no longer used by the app.
 
 ## Mushaf pages
 
